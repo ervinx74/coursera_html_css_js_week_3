@@ -1,0 +1,62 @@
+ body {
+    font-size: 16px;
+ }
+
+#header-nav {
+    background-color: grey;
+    border-radius: 0;
+    border: 2px solid black;
+}
+
+.navbar-brand {
+    padding-top: 15px;
+}
+
+.navbar-brand h1 { 
+    color: black;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: .75;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 1.8em;
+    margin-top: 30px;
+}
+
+section {
+    background-color: grey;
+    padding: 0 15px 15px 15px;
+}
+
+h3 {
+    font-weight: bold;
+    font-size: 1.25em;
+    padding-top: 15px;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid black;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: black;
+    background-color: #E7E7E7;
+    border: 1px solid black;
+    text-align: center;
+}
+
+#myNavbar {
+    border: 0;
+    font-weight: bold;
+    padding: 0;
+}
+
+.navbar-nav {
+    margin: 0;
+}
+
+
